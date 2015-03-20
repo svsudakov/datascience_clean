@@ -54,7 +54,7 @@ Each line of the data contains 68 variables:
 
 1. Subject ID
 2. Activity type
-3-68. Features
+3. 66 Features
 
 Dataset has following format of feature names: <name>_<mean/std>_<X/Y/Z>. Features that don't have XYZ estimations don't have _<X/Y/Z>.
 Examples: tBodyAcc_mean_X, tBodyGyroMag_mean
